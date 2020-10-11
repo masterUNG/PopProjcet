@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1029550145957",
+    "firebase_url": "https://tbit-merchant-a.firebaseio.com",
+    "project_id": "tbit-merchant-a",
+    "storage_bucket": "tbit-merchant-a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029550145957:android:36dc92382abc6ae237a84c",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.poproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029550145957-o5f010915r1ulj9ajeh6i3kfk5q756n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIEVudfxQZVr_hnR1fWNACltetqdvfhs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029550145957-o5f010915r1ulj9ajeh6i3kfk5q756n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029550145957:android:e42a7858fcd5154f37a84c",
+        "android_client_info": {
+          "package_name": "po.tbt.poproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029550145957-o5f010915r1ulj9ajeh6i3kfk5q756n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIEVudfxQZVr_hnR1fWNACltetqdvfhs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029550145957-o5f010915r1ulj9ajeh6i3kfk5q756n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
